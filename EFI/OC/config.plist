@@ -372,7 +372,7 @@
                     <key>BundlePath</key>
                     <string>USBInjectAll.kext</string>
                     <key>Comment</key>
-                    <string></string>
+                    <string>V0.7.6</string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
@@ -390,7 +390,7 @@
                     <key>BundlePath</key>
                     <string>USBPorts.kext</string>
                     <key>Comment</key>
-                    <string></string>
+                    <string>V1.0</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -408,7 +408,7 @@
                     <key>BundlePath</key>
                     <string>XHCI-unsupported.kext</string>
                     <key>Comment</key>
-                    <string></string>
+                    <string>V0.9.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -789,9 +789,9 @@
                 <false/>
                 <key>AppleXcpmForceBoost</key>
                 <false/>
-                <key>CustomSMBIOSGuid</key>
-                <false/>
                 <key>CustomPciSerialDevice</key>
+                <false/>
+                <key>CustomSMBIOSGuid</key>
                 <false/>
                 <key>DisableIoMapper</key>
                 <true/>
@@ -885,8 +885,6 @@
                 <integer>2147483650</integer>
                 <key>LogModules</key>
                 <string>*</string>
-                <key>SerialInit</key>
-                <false/>
                 <key>SysReport</key>
                 <false/>
                 <key>Target</key>
@@ -992,7 +990,7 @@
                     <key>DefaultBackgroundColor</key>
                     <data>AAAAAA==</data>
                     <key>UIScale</key>
-                    <data>AQ==</data>
+                    <data>Ag==</data>
                 </dict>
                 <key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
                 <dict>
@@ -1074,10 +1072,10 @@
             <dict>
                 <key>AdviseFeatures</key>
                 <false/>
-                <key>MaxBIOSVersion</key>
-                <false/>
                 <key>MLB</key>
                 <string>C02020270J9PHC1CB</string>
+                <key>MaxBIOSVersion</key>
+                <false/>
                 <key>ProcessorType</key>
                 <integer>4105</integer>
                 <key>ROM</key>
@@ -1135,10 +1133,10 @@
                 <integer>5</integer>
                 <key>PointerPollMask</key>
                 <integer>-1</integer>
-                <key>PointerPollMin</key>
-                <integer>10</integer>
                 <key>PointerPollMax</key>
                 <integer>80</integer>
+                <key>PointerPollMin</key>
+                <integer>10</integer>
                 <key>PointerSpeedDiv</key>
                 <integer>1</integer>
                 <key>PointerSpeedMul</key>
@@ -1241,10 +1239,10 @@
                 <false/>
                 <key>TextRenderer</key>
                 <string>BuiltinGraphics</string>
+                <key>UIScale</key>
+                <integer>2</integer>
                 <key>UgaPassThrough</key>
                 <false/>
-                <key>UIScale</key>
-                <integer>0</integer>
             </dict>
             <key>ProtocolOverrides</key>
             <dict>
