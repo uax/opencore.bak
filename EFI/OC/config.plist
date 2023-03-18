@@ -988,7 +988,7 @@
                 <key>PickerAudioAssist</key>
                 <false/>
                 <key>PickerMode</key>
-                <string>External</string>
+                <string>Builtin</string>
                 <key>PickerVariant</key>
                 <string>Default</string>
                 <key>PollAppleHotKeys</key>
@@ -1265,7 +1265,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string></string>
+                <string>C02015104GUPHC1A8</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1279,9 +1279,9 @@
                 <key>SystemProductName</key>
                 <string>iMac20,1</string>
                 <key>SystemSerialNumber</key>
-                <string></string>
+                <string>C02CKCZTPN5T</string>
                 <key>SystemUUID</key>
-                <string></string>
+                <string>8C997F9D-799E-4C9B-B1E0-5C8A07346703</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -1478,7 +1478,7 @@
                 <key>TextRenderer</key>
                 <string>BuiltinGraphics</string>
                 <key>UIScale</key>
-                <integer>1</integer>
+                <integer>0</integer>
                 <key>UgaPassThrough</key>
                 <false/>
             </dict>
